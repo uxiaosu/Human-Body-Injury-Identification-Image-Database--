@@ -1,7 +1,7 @@
 # 人体损伤标识图片数据库 - 学术使用声明
 # Human Body Injury Identification Image Database - Academic Usage Statement
 
-![数据库结构示意图](./database_structure.png)
+![](https://i.postimg.cc/nrbZpn7N/1.jpg)
 
 *图片说明：上图为数据库结构示意图，仅作示意用途，不包含任何实际尸体或伤情图像*  
 *Image caption: The diagram above illustrates the database structure for reference only and does not contain any actual postmortem or injury images*
